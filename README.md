@@ -2,9 +2,9 @@
 Dicoding Pemrograman Flutter untuk Pemula
 
 # Submission Checklist
-✅Terdapat penggunaan Stateless Widget. (Terpenuhi)
-✅Terdapat penggunaan Stateful Widget. (Terpenuhi)
-✅Memiliki minimal 2 (dua) halaman dan menerapkan Navigation. (Terpenuhi)
+✅Terdapat penggunaan Stateless Widget. (Terpenuhi) /n
+✅Terdapat penggunaan Stateful Widget. (Terpenuhi) /n
+✅Memiliki minimal 2 (dua) halaman dan menerapkan Navigation. (Terpenuhi) /n
 ✅Tidak memiliki tampilan yang overflow. (Terpenuhi)
 
 # Contributor
