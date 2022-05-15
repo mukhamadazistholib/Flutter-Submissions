@@ -8,5 +8,5 @@ Dicoding Pemrograman Flutter untuk Pemula
 ✅Tidak memiliki tampilan yang overflow. (Terpenuhi)
 
 # Contributor
-Mukhamad Azis Tholib
+Mukhamad Azis Tholib <br/>
 Email: mukhamadazistholib278[at]gmail[dot]com
